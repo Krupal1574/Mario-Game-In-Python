@@ -22,4 +22,4 @@ $ python main.py
 
 # Credit 
 
-*Thanks to chatgpt,google & orignal devs of mario🤣
+*Thanks to chatgpt,google & original devs of mario🤣
